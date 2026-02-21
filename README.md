@@ -24,11 +24,12 @@ Usage
 
 bash
 git clone <https://github.com/bhuvan2005-k/Process-Scheduling-Simulator.git>
+
 cd Process-Scheduling-Simulator
 
 2. Run the main program:
 
-python main.py
+  python main.py
 
-3.You will see the waiting time and turnaround time for each process, along with the averages.
+ 3.You will see the waiting time and turnaround time for each process, along with the averages.
 
