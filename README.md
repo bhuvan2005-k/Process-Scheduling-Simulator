@@ -1,6 +1,6 @@
 # CPU Scheduling Algorithms Simulation
 
-This project implements three classic CPU scheduling algorithms in Python: **FCFS (First-Come-First-Serve)**, **SJF (Shortest Job First)**, and **Round Robin (RR)**. It calculates **Waiting Time (WT)** and **Turnaround Time (TAT)** for a set of processes and displays average metrics.  
+This project implements three classic CPU scheduling algorithms in Python: "FCFS (First-Come-First-Serve)", "SJF (Shortest Job First)", and "Round Robin (RR)". It calculates "Waiting Time (WT)" and "Turnaround Time (TAT)" for a set of processes and displays average metrics.  
 
 Files
 
@@ -24,7 +24,7 @@ Usage
 
 bash
 git clone <https://github.com/bhuvan2005-k/Process-Scheduling-Simulator.git>
-cd <your-repo-folder>
+cd Process-Scheduling-Simulator
 
 2. Run the main program:
 
